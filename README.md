@@ -1,3 +1,5 @@
+Gadcoin - V2 is coming
+
 Gadcoin is a cryptocurrency focused on providing a decentralized mechanism of exchange, and anonymity via untraceable and unlinkable transactions.
 
 ## Building Gadcoin
